@@ -1,0 +1,11 @@
+{
+  "name": "digital-rain",
+  "version": "0.3.0",
+  "description": "Matrix mode for Claude Code: new text decodes out of flickering katakana, and the spinner speaks in half-decoded code",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "tibbon"
+  },
+  "homepage": "https://github.com/tibbon/digital-rain"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "digital-rain",
+  "owner": { "name": "tibbon" },
+  "plugins": [{ "name": "digital-rain", "source": "./mod", "description": "Matrix decode effect for Claude Code: new text resolves out of flickering katakana" }]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "digital-rain",
+  "version": "0.1.0",
+  "description": "Full-screen Matrix rain of a live Claude Code session: output tokens fall, input tokens rise",
+  "type": "module",
+  "bin": { "digital-rain": "./digital-rain.ts" },
+  "scripts": { "start": "node digital-rain.ts" },
+  "engines": { "node": ">=23.6" },
+  "license": "MIT"
+}
